@@ -3,17 +3,17 @@
 
 const arshWebDev = {
 
-  introduction: "I'm a Web Developer",
+      introduction: "I'm a Web Developer",
   
-  location: "India",
+      location: "India",
   
-  interest: "fullstack development",
+      interest: "fullstack development",
   
-  learning: "next.js",
+      learning: "next.js",
   
-  collaborate: "frontend projects",
+      collaborate: "frontend projects",
   
-  hobbies: ["programming", "reading"],
+      hobbies: ["programming", "reading"],
   
 };
 <!--
