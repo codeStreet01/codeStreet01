@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+let arshWebDev = {
+  introduction: "I'm a Web Developer",
+  location: "India",
+  interest: "fullstack development",
+  learning: "next.js",
+  collaborate: "frontend projects",
+  hobbies: ["programming", "reading"],
+};
 <!--
 **codeStreet01/codeStreet01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
